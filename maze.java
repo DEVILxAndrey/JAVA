@@ -1,6 +1,5 @@
 import java.util.HashMap;
 import java.util.Map;
-
 class Maze
 {
 	Map<Integer, Room> rooms = null;
