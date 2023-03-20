@@ -1,4 +1,4 @@
-public void dispense() {
+public void Dispense() {
     if (state = SOLD)  {
         System.out.println("A gumball comes rolling out the slot");
         count = count - 1;
